@@ -1,0 +1,2 @@
+employee={ 'empno':1,'empname':'prasad','empdesig':'degree','doj':18,'salary':100000}
+print(employee)
